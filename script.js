@@ -1,6 +1,6 @@
 // انيميشن الكلمه اللي بتتمسح
 const typed = new Typed('#changing-text', {
-  strings: ['Front-End Developer','Computer Science Student'], // الكلمات اللي هتتبدل
+  strings: ['Back-End Developer','Computer Science Student'], // الكلمات اللي هتتبدل
   typeSpeed: 60,    // سرعة الكتابة (بالملي ثانية)
   backSpeed: 40,    // سرعة المسح
   loop: true        // يفضل يعيد ويزيد للأبد
