@@ -23,7 +23,14 @@ closeMenu.addEventListener("click" , ()=>{
 });
 // بيانات الكروت
 const projects = [
-       {
+   {
+    title: "KoraSpot",
+    description:" A comprehensive SaaS platform for sports facilities management, featuring real-time financial dashboards, custom branch controls, secure down-payment flows, automated email notifications, and an intuitive direct-booking interface for clients.",
+    image: "Photo/koraspot.png",
+    tags: ["Laravel Framework", "MySQL" , "JavaScript" , "Tailwind"],
+    liveLink: "https://koraspot.sbs/",
+    },    
+  {
     title: "Menu L'Étoile",
     description: "A sophisticated fine-dining restaurant website featuring an interactive filterable menu, seamless reservation booking, and a smooth, responsive dark-themed UI.",
     image: "Photo/Menu L'Étoile.png",
