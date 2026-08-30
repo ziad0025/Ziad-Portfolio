@@ -72,6 +72,12 @@ const projects = [
     // ===== مشاريع الديزاين =====
     {
         title: "Social Media Design",
+        image: "Photo/graphics/coffe-design.png",
+        tags: ["Photoshop", "Social Media"],
+        type: "design"
+    },
+    {
+        title: "Social Media Design",
         image: "Photo/graphics/Artboard 1.jpg",
         tags: ["Photoshop", "Social Media"],
         type: "design"
