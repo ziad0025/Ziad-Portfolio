@@ -47,7 +47,7 @@ const projects = [
         image: "Photo/portfolio image.png",
         tags: ["HTML5", "Tailwind CSS", "JavaScript", "AOS.js"],
         liveLink: "https://ziad0025.github.io/Ziad-Portfolio/",
-        codeLink: "https://github.com/ziad0025/Ziad-Portfolio.git",
+        codeLink: "https://ziad0025.github.io/Ziad-Portfolio/",
         type: "code"
     },
     {
