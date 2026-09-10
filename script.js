@@ -78,6 +78,12 @@ const projects = [
     },
     {
         title: "Social Media Design",
+        image: "Photo/graphics/teacher.png",
+        tags: ["Photoshop", "Social Media"],
+        type: "design"
+    },
+    {
+        title: "Social Media Design",
         image: "Photo/graphics/coffe-design.png",
         tags: ["Photoshop", "Social Media"],
         type: "design"
